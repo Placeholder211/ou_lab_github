@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ou_lab_github.dir/main.cpp.o  -o ou_lab_github 
